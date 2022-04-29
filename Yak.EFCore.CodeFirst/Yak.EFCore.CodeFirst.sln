@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yak.EFCore.CodeFirst", "Yak.EFCore.CodeFirst\Yak.EFCore.CodeFirst.csproj", "{597B53C9-9F96-4059-A426-DF207E263141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yak.EFCore.DB", "Yak.EFCore.DB\Yak.EFCore.DB.csproj", "{5E2B6F28-CDF2-4607-BA14-B10838065EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{597B53C9-9F96-4059-A426-DF207E263141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597B53C9-9F96-4059-A426-DF207E263141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597B53C9-9F96-4059-A426-DF207E263141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597B53C9-9F96-4059-A426-DF207E263141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E2B6F28-CDF2-4607-BA14-B10838065EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2B6F28-CDF2-4607-BA14-B10838065EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2B6F28-CDF2-4607-BA14-B10838065EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2B6F28-CDF2-4607-BA14-B10838065EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14460561-431A-47AA-AE74-91453C2B988E}
+	EndGlobalSection
+EndGlobal

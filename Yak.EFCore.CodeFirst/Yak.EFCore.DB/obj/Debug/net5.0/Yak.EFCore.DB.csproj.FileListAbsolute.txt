@@ -1,0 +1,15 @@
+F:\biji\NetCore\ORM\EFCore\CodeFirst\code\Yak.EFCore.CodeFirst\Yak.EFCore.DB\bin\Debug\net5.0\Yak.EFCore.DB.deps.json
+F:\biji\NetCore\ORM\EFCore\CodeFirst\code\Yak.EFCore.CodeFirst\Yak.EFCore.DB\bin\Debug\net5.0\Yak.EFCore.DB.runtimeconfig.json
+F:\biji\NetCore\ORM\EFCore\CodeFirst\code\Yak.EFCore.CodeFirst\Yak.EFCore.DB\bin\Debug\net5.0\Yak.EFCore.DB.runtimeconfig.dev.json
+F:\biji\NetCore\ORM\EFCore\CodeFirst\code\Yak.EFCore.CodeFirst\Yak.EFCore.DB\bin\Debug\net5.0\Yak.EFCore.DB.dll
+F:\biji\NetCore\ORM\EFCore\CodeFirst\code\Yak.EFCore.CodeFirst\Yak.EFCore.DB\bin\Debug\net5.0\Yak.EFCore.DB.pdb
+F:\biji\NetCore\ORM\EFCore\CodeFirst\code\Yak.EFCore.CodeFirst\Yak.EFCore.DB\obj\Debug\net5.0\Yak.EFCore.DB.csproj.AssemblyReference.cache
+F:\biji\NetCore\ORM\EFCore\CodeFirst\code\Yak.EFCore.CodeFirst\Yak.EFCore.DB\obj\Debug\net5.0\Yak.EFCore.DB.GeneratedMSBuildEditorConfig.editorconfig
+F:\biji\NetCore\ORM\EFCore\CodeFirst\code\Yak.EFCore.CodeFirst\Yak.EFCore.DB\obj\Debug\net5.0\Yak.EFCore.DB.AssemblyInfoInputs.cache
+F:\biji\NetCore\ORM\EFCore\CodeFirst\code\Yak.EFCore.CodeFirst\Yak.EFCore.DB\obj\Debug\net5.0\Yak.EFCore.DB.AssemblyInfo.cs
+F:\biji\NetCore\ORM\EFCore\CodeFirst\code\Yak.EFCore.CodeFirst\Yak.EFCore.DB\obj\Debug\net5.0\Yak.EFCore.DB.csproj.CoreCompileInputs.cache
+F:\biji\NetCore\ORM\EFCore\CodeFirst\code\Yak.EFCore.CodeFirst\Yak.EFCore.DB\obj\Debug\net5.0\Yak.EFCore.DB.dll
+F:\biji\NetCore\ORM\EFCore\CodeFirst\code\Yak.EFCore.CodeFirst\Yak.EFCore.DB\obj\Debug\net5.0\refint\Yak.EFCore.DB.dll
+F:\biji\NetCore\ORM\EFCore\CodeFirst\code\Yak.EFCore.CodeFirst\Yak.EFCore.DB\obj\Debug\net5.0\Yak.EFCore.DB.pdb
+F:\biji\NetCore\ORM\EFCore\CodeFirst\code\Yak.EFCore.CodeFirst\Yak.EFCore.DB\obj\Debug\net5.0\Yak.EFCore.DB.genruntimeconfig.cache
+F:\biji\NetCore\ORM\EFCore\CodeFirst\code\Yak.EFCore.CodeFirst\Yak.EFCore.DB\obj\Debug\net5.0\ref\Yak.EFCore.DB.dll
