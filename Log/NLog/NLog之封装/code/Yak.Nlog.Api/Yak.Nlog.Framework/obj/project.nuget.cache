@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "k37SVfoP/MnidBl4ejeFS7ooygV5VCYAG1hKLKdAMXtgDvEDwvvO44gJ+HGAMy6izkntimekNjYF5DybUX4qTg==",
+  "success": true,
+  "projectFilePath": "F:\\biji\\NetCore\\Log\\NLog\\NLog之封装\\code\\Yak.Nlog.Api\\Yak.Nlog.Framework\\Yak.Nlog.Framework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yandaniu\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\yandaniu\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

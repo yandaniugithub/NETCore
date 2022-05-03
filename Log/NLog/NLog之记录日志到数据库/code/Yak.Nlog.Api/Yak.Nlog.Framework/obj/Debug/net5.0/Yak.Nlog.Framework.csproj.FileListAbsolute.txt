@@ -1,0 +1,12 @@
+F:\biji\NetCore\Log\NLog\NLog之封装\code\Yak.Nlog.Api\Yak.Nlog.Framework\bin\Debug\net5.0\Yak.Nlog.Framework.deps.json
+F:\biji\NetCore\Log\NLog\NLog之封装\code\Yak.Nlog.Api\Yak.Nlog.Framework\bin\Debug\net5.0\Yak.Nlog.Framework.dll
+F:\biji\NetCore\Log\NLog\NLog之封装\code\Yak.Nlog.Api\Yak.Nlog.Framework\bin\Debug\net5.0\Yak.Nlog.Framework.pdb
+F:\biji\NetCore\Log\NLog\NLog之封装\code\Yak.Nlog.Api\Yak.Nlog.Framework\obj\Debug\net5.0\Yak.Nlog.Framework.csproj.AssemblyReference.cache
+F:\biji\NetCore\Log\NLog\NLog之封装\code\Yak.Nlog.Api\Yak.Nlog.Framework\obj\Debug\net5.0\Yak.Nlog.Framework.GeneratedMSBuildEditorConfig.editorconfig
+F:\biji\NetCore\Log\NLog\NLog之封装\code\Yak.Nlog.Api\Yak.Nlog.Framework\obj\Debug\net5.0\Yak.Nlog.Framework.AssemblyInfoInputs.cache
+F:\biji\NetCore\Log\NLog\NLog之封装\code\Yak.Nlog.Api\Yak.Nlog.Framework\obj\Debug\net5.0\Yak.Nlog.Framework.AssemblyInfo.cs
+F:\biji\NetCore\Log\NLog\NLog之封装\code\Yak.Nlog.Api\Yak.Nlog.Framework\obj\Debug\net5.0\Yak.Nlog.Framework.csproj.CoreCompileInputs.cache
+F:\biji\NetCore\Log\NLog\NLog之封装\code\Yak.Nlog.Api\Yak.Nlog.Framework\obj\Debug\net5.0\Yak.Nlog.Framework.dll
+F:\biji\NetCore\Log\NLog\NLog之封装\code\Yak.Nlog.Api\Yak.Nlog.Framework\obj\Debug\net5.0\refint\Yak.Nlog.Framework.dll
+F:\biji\NetCore\Log\NLog\NLog之封装\code\Yak.Nlog.Api\Yak.Nlog.Framework\obj\Debug\net5.0\Yak.Nlog.Framework.pdb
+F:\biji\NetCore\Log\NLog\NLog之封装\code\Yak.Nlog.Api\Yak.Nlog.Framework\obj\Debug\net5.0\ref\Yak.Nlog.Framework.dll

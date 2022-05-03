@@ -1,0 +1,47 @@
+2022-05-03 16:41:16.8442 | Info | Now listening on: http://localhost:5000 
+2022-05-03 16:46:47.5668 | Info | Now listening on: http://localhost:5000 
+2022-05-03 16:46:48.9347 | Info | Hello, this is the GetWeatherForecast! 
+2022-05-03 16:50:12.6835 | Info | Now listening on: http://localhost:5000 
+2022-05-03 16:52:28.3372 | Info | Now listening on: http://localhost:5000 
+2022-05-03 16:56:04.6997 | Info | Now listening on: http://localhost:5000 
+2022-05-03 16:56:05.1806 | Info | Application started. Press Ctrl+C to shut down. 
+2022-05-03 16:56:05.2013 | Info | Hosting environment: Development 
+2022-05-03 16:56:05.2013 | Info | Content root path: F:\biji\NetCore\Log\NLog\NLog之记录日志到数据库\code\Yak.Nlog.Api\Yak.Nlog.Api 
+2022-05-03 16:56:06.4082 | Info | Hello, this is the GetWeatherForecast! 
+2022-05-03 16:56:06.4245 | Info | 这是提示信息 
+2022-05-03 17:00:04.8794 | Info | Now listening on: http://localhost:5000 
+2022-05-03 17:00:05.4490 | Info | Application started. Press Ctrl+C to shut down. 
+2022-05-03 17:00:05.5002 | Info | Hosting environment: Development 
+2022-05-03 17:00:05.5002 | Info | Content root path: F:\biji\NetCore\Log\NLog\NLog之记录日志到数据库\code\Yak.Nlog.Api\Yak.Nlog.Api 
+2022-05-03 17:00:06.4388 | Info | Hello, this is the GetWeatherForecast! 
+2022-05-03 17:00:06.4591 | Info | 这是提示信息 
+2022-05-03 17:03:21.2991 | Info | Now listening on: http://localhost:5000 
+2022-05-03 17:03:21.8224 | Info | Application started. Press Ctrl+C to shut down. 
+2022-05-03 17:03:21.8378 | Info | Hosting environment: Development 
+2022-05-03 17:03:21.8378 | Info | Content root path: F:\biji\NetCore\Log\NLog\NLog之记录日志到数据库\code\Yak.Nlog.Api\Yak.Nlog.Api 
+2022-05-03 17:03:22.5706 | Info | Hello, this is the GetWeatherForecast! 
+2022-05-03 17:03:22.5858 | Info | 这是提示信息 
+2022-05-03 17:03:22.6033 | Info | 你访问了首页。跟踪程序的一般流程。 
+2022-05-03 17:06:17.1028 | Info | Now listening on: http://localhost:5000 
+2022-05-03 17:06:17.4139 | Info | Application started. Press Ctrl+C to shut down. 
+2022-05-03 17:06:17.4347 | Info | Hosting environment: Development 
+2022-05-03 17:06:17.4465 | Info | Content root path: F:\biji\NetCore\Log\NLog\NLog之记录日志到数据库\code\Yak.Nlog.Api\Yak.Nlog.Api 
+2022-05-03 17:06:18.4523 | Info | Hello, this is the GetWeatherForecast! 
+2022-05-03 17:06:18.4679 | Info | 这是提示信息 
+2022-05-03 17:06:18.4776 | Info | 你访问了首页。跟踪程序的一般流程。 
+2022-05-03 20:48:04.4495 | Info | Now listening on: http://localhost:5000 
+2022-05-03 20:48:04.6784 | Info | Application started. Press Ctrl+C to shut down. 
+2022-05-03 20:48:04.6846 | Info | Hosting environment: Development 
+2022-05-03 20:48:04.6846 | Info | Content root path: F:\biji\NetCore\Log\NLog\NLog之记录日志到数据库\code\Yak.Nlog.Api\Yak.Nlog.Api 
+2022-05-03 20:48:06.4213 | Info | Now listening on: http://localhost:5000 
+2022-05-03 20:48:07.0105 | Info | Application started. Press Ctrl+C to shut down. 
+2022-05-03 20:48:07.0389 | Info | Hosting environment: Development 
+2022-05-03 20:48:07.2615 | Info | Content root path: F:\biji\NetCore\Log\NLog\NLog之记录日志到数据库\code\Yak.Nlog.Api\Yak.Nlog.Api 
+2022-05-03 20:48:07.5152 | Info | Hello, this is the GetWeatherForecast! 
+2022-05-03 20:48:07.5264 | Info | 这是提示信息 
+2022-05-03 20:48:07.5264 | Info | 你访问了首页。跟踪程序的一般流程。 
+2022-05-03 21:02:45.2687 | Info | Now listening on: http://localhost:5000 
+2022-05-03 21:02:46.5402 | Info | 你访问了首页。跟踪程序的一般流程。 
+2022-05-03 21:02:46.6075 | Info | Application started. Press Ctrl+C to shut down. 
+2022-05-03 21:02:46.6443 | Info | Hosting environment: Development 
+2022-05-03 21:02:46.6836 | Info | Content root path: F:\biji\NetCore\Log\NLog\NLog之记录日志到数据库\code\Yak.Nlog.Api\Yak.Nlog.Api 
